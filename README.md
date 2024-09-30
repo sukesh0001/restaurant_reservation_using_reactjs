@@ -1,1 +1,1 @@
-# restaurant_reservation_using_reactjs
+Restaurant reservation using reactjs
